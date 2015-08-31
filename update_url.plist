@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>UpdateScript</key>
+		<string>http://atv-xbmc-launcher.googlecode.com/svn/tags/ul-info/scripts/xbmc-10.1_update.sh</string>
+		<key>URL</key>
+		<string>http://mirrors.kodi.tv/releases/osx/i386/old/xbmc-10.1.dmg</string>
+		<key>Type</key>
+		<string>Application</string>
+		<key>MD5</key>
+		<string>987ecb1c1c69fb94d93fbe20815d54c2</string>
+		<key>Name</key>
+		<string>XBMC 10.1 - Dharma</string>
+	</dict>
+	<dict>
+		<key>UpdateScript</key>
+		<string>http://atv-xbmc-launcher.googlecode.com/svn/tags/ul-info/scripts/xbmc-11.0_update.sh</string>
+		<key>URL</key>
+		<string>http://mirrors.kodi.tv/releases/osx/i386/old/xbmc-11.0.dmg</string>
+		<key>Type</key>
+		<string>Application</string>
+		<key>MD5</key>
+		<string>ca80fbb6a7f0e0784a0a1ed49d882873</string>
+		<key>Name</key>
+		<string>XBMC 11.0 - Eden</string>
+	</dict>
+	<dict>
+		<key>Name</key>
+		<string>Launcher 3.2.5</string>
+		<key>Type</key>
+		<string>Launcher</string>
+		<key>URL</key>
+		<string>http://atv-xbmc-launcher.googlecode.com/files/Launcher-3.2.5-debug.run</string>
+		<key>MD5</key>
+		<string>ba3e92c5257be51b49195515a71b666e</string>
+		<key>UpdateScript</key>
+		<string>http://atv-xbmc-launcher.googlecode.com/svn/tags/ul-info/scripts/launcher-update-3.2.sh</string>
+	</dict>
+</array>
+</plist>
